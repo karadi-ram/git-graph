@@ -4,3 +4,6 @@ vada
 puri
 chapathi
 dosa
+
+tea
+cofee
