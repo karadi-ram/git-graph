@@ -1,3 +1,5 @@
 idli
 pongal
 vada
+puri
+chapathi
